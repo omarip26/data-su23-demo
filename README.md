@@ -7,4 +7,4 @@
 <img src="skegee.jpg">
 
 
-* I attend Tuskegee University. *
+*I attend Tuskegee University.*
